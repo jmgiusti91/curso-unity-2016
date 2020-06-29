@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5165608C-F585-EA5D-AFB8-22392699761E}") = "Juego Juan Giusti", "Assembly-CSharp-firstpass.csproj", "{7CF7A9A0-F348-162A-DC14-44C7A8FDAE9E}"
+EndProject
+Project("{5165608C-F585-EA5D-AFB8-22392699761E}") = "Juego Juan Giusti", "Assembly-CSharp.csproj", "{57CE7D37-DE68-566B-7C0E-2294C979ED6B}"
+EndProject
+Project("{5165608C-F585-EA5D-AFB8-22392699761E}") = "Juego Juan Giusti", "Assembly-CSharp-Editor.csproj", "{18794872-F47F-FAFB-6688-899CA3EB36D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CF7A9A0-F348-162A-DC14-44C7A8FDAE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF7A9A0-F348-162A-DC14-44C7A8FDAE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF7A9A0-F348-162A-DC14-44C7A8FDAE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF7A9A0-F348-162A-DC14-44C7A8FDAE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57CE7D37-DE68-566B-7C0E-2294C979ED6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57CE7D37-DE68-566B-7C0E-2294C979ED6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57CE7D37-DE68-566B-7C0E-2294C979ED6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57CE7D37-DE68-566B-7C0E-2294C979ED6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18794872-F47F-FAFB-6688-899CA3EB36D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18794872-F47F-FAFB-6688-899CA3EB36D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18794872-F47F-FAFB-6688-899CA3EB36D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18794872-F47F-FAFB-6688-899CA3EB36D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
